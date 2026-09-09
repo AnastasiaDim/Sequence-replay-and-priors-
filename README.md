@@ -6,5 +6,5 @@ This folder contains the code used to classify neural responses to visual catego
 
 The visual-category analyses include classification of the experimental stimulus categories (faces, scenes, bodies, tools, and scrambled images), while the motor-response analyses classify task-related motor responses.
 
-The scripts include preprocessing, decoding, and statistical analyses used to generate the classification results reported in the manuscript.
+
 
