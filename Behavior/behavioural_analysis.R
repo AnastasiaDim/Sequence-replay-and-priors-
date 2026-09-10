@@ -3,7 +3,8 @@
 rm(list=ls()); graphics.off()
 library(ggplot2);library(dplyr); require(dplyr); require(rstatix); library(readxl) ; library(lsr) ;library(viridis)
 library(patchwork) ; library(lme4) ;library(ggsignif); library(lmerTest)
-setwd("C:/Users/asus/Desktop/PhD/ONGOING_PROJECTS/BEHAVIOUR")
+# Set the working directory to the project folder if needed
+# setwd("PATH_TO_PROJECT")
 
 
 # Load and summarize data  ------------------------------------------------
