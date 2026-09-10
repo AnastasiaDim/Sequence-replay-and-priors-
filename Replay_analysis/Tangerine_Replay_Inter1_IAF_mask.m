@@ -1,11 +1,14 @@
 clear;
 clc;
 close all;
-addpath('/home/dimakou/toolbox/eeglab2023.0')
-addpath('/data/doc37/dimakou/sequences')
-addpath('/data/doc37/dimakou/replays/MASK_INTER/inter1/mask')
-outname = '/data/doc37/dimakou/replays/MASK_INTER/inter1';
-path    = '/data/dimakou/classification';
+eeglab_path = 'PATH_TO_EEGLAB';
+data_path = 'PATH_TO_DATA';
+mask_path = 'PATH_TO_MASKS';
+output_path = 'PATH_TO_OUTPUT';
+
+addpath(eeglab_path);
+addpath(data_path);
+addpath(mask_path);
 
 load('Hz_Alpha_peak.mat') 
 for  i = 1:length(name_sbj)
