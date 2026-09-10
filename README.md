@@ -1,5 +1,5 @@
 # Sequence-replay-and-priors-
-This depository accompanies the paper "Neural replay reshapes spontaneous activity during human sequence learning" and includes all code for analysis
+This depository accompanies the paper "Neural replay reshapes spontaneous activity during human sequence learning" and includes the basic codes for analysis
 ## Classification
 
 This folder contains the code used to classify neural responses to visual categories and motor responses during the task.
@@ -13,7 +13,7 @@ This folder contains R scripts used to analyse behavioural performance during th
 ## Replay Analysis
 
 Replay analysis used temporally delayed linear modelling By Liu et al., 2021 https://elifesciences.org/articles/66917, the original code for the analysis can 
-be found on their publication. The code used here was a modification with two additional steps controlling for alpha and muscular noise. 
+be found on their publication. The code used here was a modification with two additional steps controlling for alpha and muscular noise. The scripts for plotting replay, computing erp adn spectral decomposition, statistics and plotting the source maps are also included here. 
 
 ## Reactivation 
 
