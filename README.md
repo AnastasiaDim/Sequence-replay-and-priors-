@@ -15,3 +15,7 @@ This folder contains R scripts used to analyse behavioural performance during th
 Replay analysis used temporally delayed linear modelling By Liu et al., 2021 https://elifesciences.org/articles/66917, the original code for the analysis can 
 be found on their publication. The code used here was a modification with two additional steps controlling for alpha and muscular noise. 
 
+## Reactivation 
+
+In this folder there are two scriprs one for plotting and analysing single reactivation across resting states. The second for plotting the dynamic timecourse 
+of the reactivations. 
