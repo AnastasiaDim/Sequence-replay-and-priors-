@@ -111,8 +111,8 @@ overall_means
 
 
 # ============================================================
-# 1. Define your time window HERE
-# ============================================================
+# 1. Define  time window HERE
+#=================================
 
 START_TIME <- 7
 END_TIME   <- 8
@@ -162,7 +162,7 @@ mean_timecourse <- all_timecourse_long %>%
 
 
 # ============================================================
-# 5. Check that we actually have data
+# 5. Check 
 # ============================================================
 
 print(range(mean_timecourse$Time_sec))
