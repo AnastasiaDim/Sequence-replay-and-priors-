@@ -10,3 +10,8 @@ The visual-category analyses include classification of the experimental stimulus
 This folder contains R scripts used to analyse behavioural performance during the task, including accuracy and reaction times, and to characterise individual differences in statistical learning performance.
 
 
+## Replay Analysis
+
+Replay analysis used temporally delayed linear modelling By Liu et al., 2021 https://elifesciences.org/articles/66917, the original code for the analysis can 
+be found on their publication. The code used here was a modification with two additional steps controlling for alpha and muscular noise. 
+
