@@ -19,3 +19,7 @@ be found on their publication. The code used here was a modification with two ad
 
 In this folder there are two scriprs one for plotting and analysing single reactivation across resting states. The second for plotting the dynamic timecourse 
 of the reactivations. 
+
+## Data availability
+
+Participant-level EEG data are not included in this repository due to data-sharing and privacy restrictions.
